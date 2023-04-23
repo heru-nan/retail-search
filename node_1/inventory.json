@@ -1,0 +1,41 @@
+{
+  "productos": [
+    {
+      "nombre": "manzana",
+      "categoria": "fruta",
+      "precio": 0.99,
+      "color": "rojo",
+      "peso": "0.2kg"
+    },
+    {
+      "nombre": "arroz",
+      "categoria": "grano",
+      "precio": 2.99,
+      "marca": "Piramide",
+      "peso": "1kg"
+    },
+    {
+      "nombre": "yogurt",
+      "categoria": "lacteo",
+      "precio": 1.50,
+      "marca": "Danone",
+      "sabor": "fresa",
+      "volumen": "500ml"
+    },
+    {
+      "nombre": "pan",
+      "categoria": "pan",
+      "precio": 3.25,
+      "tipo": "integral",
+      "peso": "500g"
+    },
+    {
+      "nombre": "cafe",
+      "categoria": "bebida",
+      "precio": 4.25,
+      "marca": "Nescafe",
+      "sabor": "clasico",
+      "peso": "400g"
+    }
+  ]
+}

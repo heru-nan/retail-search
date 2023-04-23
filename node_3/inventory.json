@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "leche",
+      "categoria": "alimento",
+      "precio": 2.99,
+      "marca": "Leche Pura",
+      "unidad": "litro",
+      "vencimiento": "2023-05-31"
+    },
+    {
+      "nombre": "llanta",
+      "categoria": "accesorio",
+      "precio": 15.50,
+      "marca": "Continental",
+      "tamanio": "26 pulgadas",
+      "terreno": "liso"
+    },
+    {
+      "nombre": "champu",
+      "categoria": "cuidado",
+      "precio": 8.99,
+      "marca": "Pantene",
+      "volumen": "750 ml",
+      "cabello": "danado"
+    },
+    {
+      "nombre": "lampara",
+      "categoria": "hogar",
+      "precio": 32.99,
+      "marca": "Ikea",
+      "color": "negro",
+      "bombilla": "LED"
+    },
+    {
+      "nombre": "leche",
+      "categoria": "bebida",
+      "precio": 1.99,
+      "marca": "Lala",
+      "unidad": "litro",
+      "vencimiento": "2023-06-30"
+    }
+  ]
+}

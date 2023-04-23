@@ -1,0 +1,41 @@
+{
+  "productos": [
+    {
+      "nombre": "camisa",
+      "categoria": "ropa",
+      "precio": 25.99,
+      "color": "blanco",
+      "talla": "M"
+    },
+    {
+      "nombre": "zapatillas",
+      "categoria": "calzado",
+      "precio": 79.99,
+      "marca": "Nike",
+      "talla": "42"
+    },
+    {
+      "nombre": "laptop",
+      "categoria": "electronica",
+      "precio": 899.99,
+      "marca": "Apple",
+      "procesador": "Intel Core i5",
+      "memoria": "8GB"
+    },
+    {
+      "nombre": "botella",
+      "categoria": "accesorio",
+      "precio": 4.99,
+      "color": "azul",
+      "material": "plastico"
+    },
+    {
+      "nombre": "cafe",
+      "categoria": "bebida",
+      "precio": 2.75,
+      "marca": "Folgers",
+      "sabor": "descafeinado",
+      "peso": "300g"
+    }
+  ]
+}
