@@ -6,15 +6,15 @@ Para ejecutar en una terminal, dentro de la carpeta cordinador,
 
 Para ejecutar los nodos, dentro de la carpeta node_1,
 
-    python app.py
+    python app.py --port 5001
 
-Para ejecutar los nodos, dentro de la carpeta node_2,
+Para ejecutar los nodos, dentro de la carpeta node_1,
 
-    python app.py
+    python app.py --port 5002
 
-Para ejecutar los nodos, dentro de la carpeta node_3,
+Para ejecutar los nodos, dentro de la carpeta node_1,
 
-    python app.py
+    python app.py --port 5003
 
 Las llamadas a la api son:
 
